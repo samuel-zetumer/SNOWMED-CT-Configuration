@@ -2,7 +2,7 @@
 
 ## What is SNOWMED CT?
 
-Please check out the following website for an excellent introduction to SNOWMED CT: https://www.snomed.org/snomed-ct/five-step-briefing. It is an ontology and not a corpus. A cursory search of Github projects does not reveal any projects related to SNOWMED, though there may be others out there.
+Please check out the following website for an excellent introduction to SNOWMED CT: https://www.snomed.org/snomed-ct/five-step-briefing. It is an ontology and not a corpus. Other than SNOWSTORM, there does not appear to be too much about how to use SNOWMED CT on Github.
 
 ## Purpose
 
