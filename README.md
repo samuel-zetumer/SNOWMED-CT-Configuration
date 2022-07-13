@@ -1,7 +1,8 @@
 # SNOWMED-CT-Configuration
 
-## Difficulty
-Easy.
+## What is SNOWMED CT?
+
+Please check out the following website for an excellent introduction to SNOWMED CT: https://www.snomed.org/snomed-ct/five-step-briefing. It is an ontology and not a corpus. A cursory search of Github projects does not reveal any projects related to SNOWMED 
 
 ## Purpose
 The purpose of this document is to describe how to obtain the data dictionary SNOWMED CT. This dictionary will be used for other applications, such as obtaining free text from wikipedia, pubmed, et al. This guide specifically downloads the United States Edition.
@@ -21,13 +22,6 @@ My understanding is as follows: the licensee is allowed to develop institution s
 
 ### Registering an account
 
-Obtain an account via google, microsoft, your research organization, or gov.id, linked from the following page:
+Obtain an account via google, microsoft, your research organization, or gov.id, linked to from the following page:
 
-*PAGE MISSING*
 
-After you have a license, log on and navigate to this page.
-![SNOWMED CT 2](https://user-images.githubusercontent.com/84600716/178795227-29bd5066-d457-465f-9485-15d3fa652b57.PNG)
-
-We will be downloading two files:
-- Download Now!
-- Download Transitive Closure Resources
