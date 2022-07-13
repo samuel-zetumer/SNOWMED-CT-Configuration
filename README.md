@@ -6,8 +6,11 @@ Please check out the following website for an excellent introduction to SNOWMED 
 
 ## Purpose
 
-  The purpose of this document is to describe how to obtain the data dictionary SNOWMED CT and put it into a form that it more easily understandable and usable. This dictionary will be used for other applications, such as obtaining free text from wikipedia, pubmed, et al. This guide specifically downloads the United States Edition. 
-
+  The purpose of this document is to describe how to obtain the data dictionary SNOWMED CT and put it into a form that it more easily understandable and usable. This dictionary will be used for other applications, such as obtaining free text from wikipedia, pubmed, et al. This guide specifically downloads the United States Edition, and is designed for people less familiar with programming. In this project, we will:
+  - Manually download SNOWMED CT
+  - Manually download Python and set up our project off of Github
+  - Use python to transform SNOWMED CT
+  - Use python and SQLLite to push it into a SQL server
 
 ## Requirements and Restrictions
 
@@ -22,11 +25,11 @@ My understanding is as follows: the licensee is allowed to develop institution s
   - Adhere to additional restrictions within certain subsections of SNOWMED CT.
     - Eg. certain parts of SNOWMED CT are from copywritten sources. Those rules from those sources need to be followed. Additional section specific restrictions apply.
 
-### Transforming the ontology
+### Transforming SNOWMED CT
 For this program we will be using Python. We have explicitly avoided using 
 
-### Loading the ontology
-For this program we will be 
+### Loading SNOWMED CT
+For this program we will be using SQLLite and 
 
 ## Obtaining SNOWMED CT
 
